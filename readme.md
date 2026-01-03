@@ -57,15 +57,6 @@ Having built scalable web applications and multilingual platforms, I am now focu
 
 ---
 
-### 🌐 Languages
-
-* **Turkish:** Native
-* **English:** C1 (Professional Proficiency)
-* **Russian:** A2
-* **German:** A1
-
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rana00selim&show_icons=true&theme=transparent&hide_border=true&title_color=2F88FF&text_color=555" alt="Rana's GitHub Stats" />
   <br>
