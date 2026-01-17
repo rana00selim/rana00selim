@@ -4,7 +4,7 @@
   </a>
 
   <p align="center">
-    <strong>Computer Engineer | AI Engineering & Data Science</strong>
+    <strong>Computer Engineer | AI & Data Science</strong>
   </p>
 
   <p align="center">
@@ -24,7 +24,7 @@
 
 ### 🚀 About Me
 
-I'm a **Computer Engineer** transitioning from a strong background in Full Stack Development to **Data Science, AI Engineering, and Machine Learning**.
+I'm a **Computer Engineer** transitioning from a strong background in Software Development to **Data Science, AI Engineering, and Machine Learning**.
 
 Having built scalable web applications and multilingual platforms, I am now focused on bridging the gap between robust software architecture and modern AI capabilities like **LLMs, RAG pipelines, and Computer Vision**.
 
