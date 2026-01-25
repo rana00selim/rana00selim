@@ -24,13 +24,13 @@
 
 ### 🚀 About Me
 
-[cite_start]I am a **Computer Engineer** transitioning from a strong background in Software Development to **Data Science, AI Engineering, and Machine Learning**[cite: 1, 2, 10].
+I am a **Computer Engineer** transitioning from a strong background in Software Development to **Data Science, AI Engineering, and Machine Learning**.
 
-[cite_start]Having built scalable web applications and multilingual platforms at companies like **Ecodation** and **Granobra**, I am now focused on bridging the gap between robust software architecture and modern AI capabilities like **LLMs, RAG pipelines, and Computer Vision**[cite: 1, 2, 11, 16].
+Having built scalable web applications and multilingual platforms at companies like **Ecodation** and **Granobra**, I am now focused on bridging the gap between robust software architecture and modern AI capabilities like **LLMs, RAG pipelines, and Computer Vision**.
 
-* [cite_start]🔭 **Current Focus:** Developing advanced AI projects using **Transformers, Hugging Face, and Vector Databases**[cite: 2, 28, 43].
-* [cite_start]🌱 **Specialization:** Recently completed an intensive **AI Specialist Program** at Europe Coding School, focusing on LLM architectures and model deployment.
-* [cite_start]⚡ **Approach:** Combining software engineering best practices with AI to build intelligent, real-world products[cite: 3, 4].
+* 🔭 **Current Focus:** Developing advanced AI projects using **Transformers, Hugging Face, and Vector Databases**.
+* 🌱 **Specialization:** Recently completed an intensive **AI Specialist Program** at Europe Coding School, focusing on LLM architectures and model deployment.
+* ⚡ **Approach:** Combining software engineering best practices with AI to build intelligent, real-world products.
 
 ---
 
@@ -50,10 +50,10 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Car Price & Titanic Prediction** | [cite_start]Supervised learning models with **EDA** and **Feature Engineering**, deployed on **Hugging Face**. | `Python` `Scikit-learn` `Gradio` |
-| **Language Learning App** | [cite_start]Cross-platform app with **object recognition** logic for interactive learning using Computer Vision[cite: 37, 39]. | `Flutter` `Computer Vision` `AI` |
-| **EVT PAY & Paycell Interfaces** | [cite_start]Developed scalable management interfaces and secure payment modules within a **Microservices** architecture. | `React` `REST API` `Microservices` |
-| **Job Postings DB System** | [cite_start]Full-scale database system from EER modeling to SQL and Java GUI development[cite: 40, 42]. | `SQL` `Java` `DB Design` |
+| **Car Price & Titanic Prediction** | Supervised learning models with **EDA** and **Feature Engineering**, deployed on **Hugging Face**. | `Python` `Scikit-learn` `Gradio` |
+| **Language Learning App** | Cross-platform app with **object recognition** logic for interactive learning using Computer Vision. | `Flutter` `Computer Vision` `AI` |
+| **EVT PAY & Paycell Interfaces** | Developed scalable management interfaces and secure payment modules within a **Microservices** architecture. | `React` `REST API` `Microservices` |
+| **Job Postings DB System** | Full-scale database system from EER modeling to SQL and Java GUI development. | `SQL` `Java` `DB Design` |
 
 ---
 
