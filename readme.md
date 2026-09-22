@@ -20,6 +20,14 @@
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=rana00selim&label=Profile%20Views&color=2F88FF&style=flat" alt="Profile views" />
+
+  <br /><br />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rana00selim/rana00selim/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rana00selim/rana00selim/output/github-snake.svg" />
+    <img alt="Rana's contribution map" src="https://raw.githubusercontent.com/rana00selim/rana00selim/output/github-snake.svg" />
+  </picture>
 </div>
 
 <br />
