@@ -1,80 +1,74 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/svg/hero-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/svg/hero-light.svg" />
-  <img src="assets/svg/hero-light.svg" width="100%" alt="Rana Selim — Computer Engineer, AI & Data Science Engineer" />
-</picture>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F88FF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Rana+Selim;Computer+Engineer;AI+%26+Data+Science;Building+Intelligent+Systems" alt="Typing SVG" />
+  </a>
 
-<br /><br />
+  <p align="center">
+    <strong>Computer Engineer | AI & Data Science Engineer</strong>
+  </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/svg/about-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/svg/about-light.svg" />
-  <img src="assets/svg/about-light.svg" width="100%" alt="01 — About" />
-</picture>
+  <p align="center">
+    <a href="https://rana-selim.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://www.linkedin.com/in/rana-selim" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:rana00selim@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-I'm a computer engineer moving from software development into **data science, AI engineering and machine learning**. After building scalable web applications and multilingual platforms at **Ecodation** and **Granobra**, I now focus on bridging robust software architecture with modern AI: **LLMs, RAG pipelines and computer vision**.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/svg/trajectory-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/svg/trajectory-light.svg" />
-  <img src="assets/svg/trajectory-light.svg" width="100%" alt="Previously: software development at Ecodation and Granobra. Recently: AI Specialist Program at Europe Coding School. Now: AI engineering with LLMs, RAG and computer vision." />
-</picture>
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/svg/toolkit-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/svg/toolkit-light.svg" />
-  <img src="assets/svg/toolkit-light.svg" width="100%" alt="02 — Toolkit" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/svg/stack-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/svg/stack-light.svg" />
-  <img src="assets/svg/stack-light.svg" width="100%" alt="Data: Python, Pandas, SQL, EDA, feature engineering. Models: Scikit-learn, PyTorch, TensorFlow, computer vision. Language: Transformers, Hugging Face, LangChain, vector databases, RAG pipelines. Product: React, Next.js, Node.js, Java, Gradio, Flutter." />
-</picture>
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/svg/work-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/svg/work-light.svg" />
-  <img src="assets/svg/work-light.svg" width="100%" alt="03 — Selected work" />
-</picture>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/svg/project-1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/svg/project-1-light.svg" />
-    <img src="assets/svg/project-1-light.svg" width="49%" alt="Car Price & Titanic Prediction — supervised learning models with EDA and feature engineering, deployed on Hugging Face." />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/svg/project-2-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/svg/project-2-light.svg" />
-    <img src="assets/svg/project-2-light.svg" width="49%" align="right" alt="Language Learning App — cross-platform app using object recognition for interactive learning." />
-  </picture>
-</p>
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/svg/project-3-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/svg/project-3-light.svg" />
-    <img src="assets/svg/project-3-light.svg" width="49%" alt="EVT PAY & Paycell Interfaces — scalable management interfaces and secure payment modules in a microservices architecture." />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/svg/project-4-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/svg/project-4-light.svg" />
-    <img src="assets/svg/project-4-light.svg" width="49%" align="right" alt="Job Postings DB System — from EER modeling to SQL and a Java GUI." />
-  </picture>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=rana00selim&label=Profile%20Views&color=2F88FF&style=flat" alt="Profile views" />
+</div>
 
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/svg/footer-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/svg/footer-light.svg" />
-  <img src="assets/svg/footer-light.svg" width="100%" alt="Let's build something intelligent." />
-</picture>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> About Me
 
-<p>
-  <a href="https://rana-selim.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/svg/btn-portfolio-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/svg/btn-portfolio-light.svg" /><img src="assets/svg/btn-portfolio-light.svg" height="44" alt="Portfolio" /></picture></a>&nbsp;<a href="https://www.linkedin.com/in/rana-selim"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/svg/btn-linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/svg/btn-linkedin-light.svg" /><img src="assets/svg/btn-linkedin-light.svg" height="44" alt="LinkedIn" /></picture></a>&nbsp;<a href="mailto:rana00selim@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/svg/btn-email-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/svg/btn-email-light.svg" /><img src="assets/svg/btn-email-light.svg" height="44" alt="Email" /></picture></a>
-</p>
+I am a **Computer Engineer** transitioning from a strong background in Software Development to **Data Science, AI Engineering, and Machine Learning**.
+
+Having built scalable web applications and multilingual platforms at companies like **Ecodation** and **Granobra**, I am now focused on bridging the gap between robust software architecture and modern AI capabilities like **LLMs, RAG pipelines, and Computer Vision**.
+
+* 🔭 **Current Focus:** Developing advanced AI projects using **Transformers, Hugging Face, and Vector Databases**.
+* 🌱 **Specialization:** Recently completed an intensive **AI Specialist Program** at Europe Coding School, focusing on LLM architectures and model deployment.
+* ⚡ **Approach:** Combining software engineering best practices with AI to build intelligent, real-world products.
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Tech Stack
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,js,react,nextjs,nodejs,java,mysql,flutter,git&perline=12" alt="Skill icons" />
+</a>
+
+<br /><br />
+
+| **AI & Data Science** | **Core Development** |
+| :---: | :---: |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) <br> ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black) <br> ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) ![Gradio](https://img.shields.io/badge/-Gradio-FF7C00?style=flat&logo=gradio&logoColor=white) ![VectorDB](https://img.shields.io/badge/-Vector_DB-2F88FF?style=flat&logo=databricks&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) <br> ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+
+</div>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> Featured AI & Software Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 🚗 **Car Price & Titanic Prediction** | Supervised learning models with **EDA** and **Feature Engineering**, deployed on **Hugging Face**. | `Python` `Scikit-learn` `Gradio` |
+| 🌍 **Language Learning App** | Cross-platform app with **object recognition** logic for interactive learning using Computer Vision. | `Flutter` `Computer Vision` `AI` |
+| 💳 **EVT PAY & Paycell Interfaces** | Developed scalable management interfaces and secure payment modules within a **Microservices** architecture. | `React` `REST API` `Microservices` |
+| 🗄️ **Job Postings DB System** | Full-scale database system from EER modeling to SQL and Java GUI development. | `SQL` `Java` `DB Design` |
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rana00selim&show_icons=true&theme=transparent&hide_border=true&title_color=2F88FF&text_color=555" alt="Rana's GitHub Stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=rana00selim&theme=transparent&hide_border=true&stroke=2F88FF&ring=2F88FF&fire=2F88FF&currStreakNum=555&sideNums=555&sideLabels=555" alt="Rana's Streak" />
+</div>
