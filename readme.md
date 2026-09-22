@@ -19,10 +19,6 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=rana00selim&label=Profile%20Views&color=2F88FF&style=flat" alt="Profile views" />
-
-  <br /><br />
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rana00selim/rana00selim/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rana00selim/rana00selim/output/github-snake.svg" />
@@ -32,19 +28,19 @@
 
 <br />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> About Me
+### <img src="icons/terminal.svg" width="24" align="absmiddle" /> About Me
 
 I am a **Computer Engineer** transitioning from a strong background in Software Development to **Data Science, AI Engineering, and Machine Learning**.
 
 Having built scalable web applications and multilingual platforms at companies like **Ecodation** and **Granobra**, I am now focused on bridging the gap between robust software architecture and modern AI capabilities like **LLMs, RAG pipelines, and Computer Vision**.
 
-* 🔭 **Current Focus:** Developing advanced AI projects using **Transformers, Hugging Face, and Vector Databases**.
-* 🌱 **Specialization:** Recently completed an intensive **AI Specialist Program** at Europe Coding School, focusing on LLM architectures and model deployment.
-* ⚡ **Approach:** Combining software engineering best practices with AI to build intelligent, real-world products.
+* <img src="icons/target.svg" width="18" align="absmiddle" /> **Current Focus:** Developing advanced AI projects using **Transformers, Hugging Face, and Vector Databases**.
+* <img src="icons/graduation.svg" width="18" align="absmiddle" /> **Specialization:** Recently completed an intensive **AI Specialist Program** at Europe Coding School, focusing on LLM architectures and model deployment.
+* <img src="icons/bolt.svg" width="18" align="absmiddle" /> **Approach:** Combining software engineering best practices with AI to build intelligent, real-world products.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Tech Stack
+### <img src="icons/layers.svg" width="24" align="absmiddle" /> Tech Stack
 
 <div align="center">
 
@@ -62,7 +58,7 @@ Having built scalable web applications and multilingual platforms at companies l
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> Featured AI & Software Projects
+### <img src="icons/sparkles.svg" width="24" align="absmiddle" /> Featured AI & Software Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -73,7 +69,7 @@ Having built scalable web applications and multilingual platforms at companies l
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Stats
+### <img src="icons/chart.svg" width="24" align="absmiddle" /> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rana00selim&show_icons=true&theme=transparent&hide_border=true&title_color=2F88FF&text_color=555" alt="Rana's GitHub Stats" />
