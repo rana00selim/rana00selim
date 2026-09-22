@@ -62,10 +62,10 @@ Having built scalable web applications and multilingual platforms at companies l
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🚗 **Car Price & Titanic Prediction** | Supervised learning models with **EDA** and **Feature Engineering**, deployed on **Hugging Face**. | `Python` `Scikit-learn` `Gradio` |
-| 🌍 **Language Learning App** | Cross-platform app with **object recognition** logic for interactive learning using Computer Vision. | `Flutter` `Computer Vision` `AI` |
-| 💳 **EVT PAY & Paycell Interfaces** | Developed scalable management interfaces and secure payment modules within a **Microservices** architecture. | `React` `REST API` `Microservices` |
-| 🗄️ **Job Postings DB System** | Full-scale database system from EER modeling to SQL and Java GUI development. | `SQL` `Java` `DB Design` |
+| <img src="icons/car.svg" width="18" align="absmiddle" /> **Car Price & Titanic Prediction** | Supervised learning models with **EDA** and **Feature Engineering**, deployed on **Hugging Face**. | `Python` `Scikit-learn` `Gradio` |
+| <img src="icons/globe.svg" width="18" align="absmiddle" /> **Language Learning App** | Cross-platform app with **object recognition** logic for interactive learning using Computer Vision. | `Flutter` `Computer Vision` `AI` |
+| <img src="icons/card.svg" width="18" align="absmiddle" /> **EVT PAY & Paycell Interfaces** | Developed scalable management interfaces and secure payment modules within a **Microservices** architecture. | `React` `REST API` `Microservices` |
+| <img src="icons/database.svg" width="18" align="absmiddle" /> **Job Postings DB System** | Full-scale database system from EER modeling to SQL and Java GUI development. | `SQL` `Java` `DB Design` |
 
 ---
 
